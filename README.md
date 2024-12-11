@@ -1,6 +1,6 @@
 # Donald Jackson / ReavesX 
 
-**`Software Engineer (Embedded / Back end)`**
+**`Software Engineer (Embedded / Systems / SysAdmin`**
 
 Hello! Im Don aka ReavesX, I use `He/Him/His` for my pronouns and am a student currently studying for my dual BS in computer engineering and computer science. I have a few cybersecurity / IT related certifications because I really am just in love with all things computers. If you want to collaborate on an embedded systems design or have another interesting project idea reach out to me at [my professional/business email](donaldjacks0n@proton.me). I build my projects from the ground up, starting with a goal in mind for what I would like the end product to look and function like, then designing a pseudocode outline. 
 
