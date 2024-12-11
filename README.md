@@ -1,4 +1,4 @@
-# Don Jackson / ReavesX 
+# Donald Jackson / ReavesX 
 
 **`Software Engineer (Embedded / Back end)`**
 
