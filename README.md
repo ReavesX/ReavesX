@@ -36,6 +36,19 @@ Hello! Im Don aka ReavesX, I use `He/Him/His` for my pronouns and am a student c
 
 #
 
+### 📺 Latest Project Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Project Title 1](https://ytcards.demolab.com/?id=PLACEHOLDER_VIDEO_ID&title=Project+Title+1&lang=en&timestamp=PLACEHOLDER_TIMESTAMP&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=PLACEHOLDER_DURATION "Project Title 1")](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Project Title 2](https://ytcards.demolab.com/?id=PLACEHOLDER_VIDEO_ID&title=Project+Title+2&lang=en&timestamp=PLACEHOLDER_TIMESTAMP&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=PLACEHOLDER_DURATION "Project Title 2")](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Project Title 3](https://ytcards.demolab.com/?id=PLACEHOLDER_VIDEO_ID&title=Project+Title+3&lang=en&timestamp=PLACEHOLDER_TIMESTAMP&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=PLACEHOLDER_DURATION "Project Title 3")](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Project Title 4](https://ytcards.demolab.com/?id=PLACEHOLDER_VIDEO_ID&title=Project+Title+4&lang=en&timestamp=PLACEHOLDER_TIMESTAMP&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=PLACEHOLDER_DURATION "Project Title 4")](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Project Title 5](https://ytcards.demolab.com/?id=PLACEHOLDER_VIDEO_ID&title=Project+Title+5&lang=en&timestamp=PLACEHOLDER_TIMESTAMP&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=PLACEHOLDER_DURATION "Project Title 5")](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Project Title 6](https://ytcards.demolab.com/?id=PLACEHOLDER_VIDEO_ID&title=Project+Title+6&lang=en&timestamp=PLACEHOLDER_TIMESTAMP&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=PLACEHOLDER_DURATION "Project Title 6")](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+<!-- END YOUTUBE-CARDS -->
+
+#
+
 ### 📊 Stats
 
 ![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReavesX&show_icons=true&theme=gruvbox)
