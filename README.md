@@ -8,8 +8,8 @@ Hello! Im Don aka ReavesX, I use `He/Him/His` for my pronouns and am a student c
   <a href="https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer">
     <img alt="Canvas Quiz Answer Extension" title="Canvas Quiz Answer Extension" 
     src="https://custom-icon-badges.demolab.com/badge/-Canvas%20Quiz%20Answerer-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
-  <a href="placeholder.com">
-    <img alt="placeholder" title="Placeholder" 
+  <a href="https://github.com/ReavesX/PIC18-Free_Space_Optics">
+    <img alt="Pic18-FreeSpaceOptics" title="PIC18 FreeSpaceOptics" 
     src="https://custom-icon-badges.demolab.com/badge/-Placeholder-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
   <a href="https://github.com/ReavesX/blind75-cpp">
     <img alt="Blind75 C++" title="Blind75 C++" 
