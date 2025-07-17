@@ -13,7 +13,7 @@ Hello! Im Don aka ReavesX, I use `He/Him/His` for my pronouns and am a student c
       src="https://custom-icon-badges.demolab.com/badge/-PIC18%20Free%20Space%20Optics-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
   <a href="https://github.com/ReavesX/HpPrime-EE-CpE-Applet/">
     <img alt="HpPrime EE/CpE Applet" title="HpPrime EE/CpE Applet" 
-    src="https://custom-icon-badges.demolab.com/badge/-Blind75%20C++-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
+    src="https://custom-icon-badges.demolab.com/badge/-HpPrime-EE-CpE-Applet%20C++-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
   <a href="https://github.com/ReavesX/DSA-Implementations">
     <img alt="DSA Implementations" title="DSA Implementations" 
     src="https://custom-icon-badges.demolab.com/badge/-DSA%20Implementations-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
