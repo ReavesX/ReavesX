@@ -11,8 +11,8 @@ Hello! Im Don aka ReavesX, I use `He/Him/His` for my pronouns and am a student c
   <a href="https://github.com/ReavesX/PIC18-Free_Space_Optics">
     <img alt="Pic18-FreeSpaceOptics" title="PIC18 FreeSpaceOptics" 
       src="https://custom-icon-badges.demolab.com/badge/-PIC18%20Free%20Space%20Optics-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
-  <a href="https://github.com/ReavesX/blind75-cpp">
-    <img alt="Blind75 C++" title="Blind75 C++" 
+  <a href="https://github.com/ReavesX/HpPrime-EE-CpE-Applet/">
+    <img alt="HpPrime EE/CpE Applet" title="HpPrime EE/CpE Applet" 
     src="https://custom-icon-badges.demolab.com/badge/-Blind75%20C++-555555?style=for-the-badge&logo=repo&logoColor=white"/></a>
   <a href="https://github.com/ReavesX/DSA-Implementations">
     <img alt="DSA Implementations" title="DSA Implementations" 
