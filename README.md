@@ -18,8 +18,10 @@ Chrome Extension (MV3, WXT) for offline-first task/study group management with r
 
 - Implemented **conflict-free offline-first sync** using Yjs (CRDTs)  
 - Enabled **real-time collaboration** with WebSockets for shared study boards  
-- Integrated **rubric-aware automation** to prefill assignment checklists, demonstrating applied AI + UX  
+- Integrated **rubric-aware automation** to prefill assignment checklists  
+
 <sub>Tech:</sub>  
+<p align="left">
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> 
 <img alt="Preact" src="https://img.shields.io/badge/-Preact-673AB7?style=for-the-badge&logo=preact&logoColor=white" /> 
@@ -30,7 +32,7 @@ Chrome Extension (MV3, WXT) for offline-first task/study group management with r
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
+</p>
 ---
 
 **[Canvas Quiz Answer Extension](https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer)**  
