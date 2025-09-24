@@ -11,6 +11,8 @@ If you want to collaborate on innovative projects or have a challenge in mind, r
 
 ---
 
+---
+
 ### 📌 Featured Projects
 
 **[Brighterspace](https://github.com/ReavesX/wxt-brighterspace)**  
@@ -33,17 +35,36 @@ Chrome Extension (MV3, WXT) for offline-first task/study group management with r
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
 ---
 
 **[Canvas Quiz Answer Extension](https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer)**  
 Browser extension using OpenAI APIs to improve quiz workflow efficiency.  
 
 - Streamlines quiz answering using AI-powered automation  
-- Integrates seamlessly with browser UI for a smooth user experience  
+- Integrates seamlessly with browser UI for smooth user experience  
+
 <sub>Tech:</sub>  
+<p align="left">
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+**[HP Prime EE/CpE Applet](https://github.com/ReavesX/HpPrime-EE-CpE-Applet)**  
+Custom HP Prime applet for EE/CpE workflows, enabling advanced calculations and domain-specific problem solving.  
+
+- Demonstrates **applied math** and **custom UI design**  
+- Includes domain-specific tools to assist EE/CpE coursework  
+
+<sub>Tech:</sub>  
+<p align="left">
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img alt="HP PPL" src="https://img.shields.io/badge/-HP%20PPL-555555?style=for-the-badge" /> 
+<img alt="Mathematics" src="https://img.shields.io/badge/-Mathematics-FF6F61?style=for-the-badge" />
+</p>
 
 ---
 
