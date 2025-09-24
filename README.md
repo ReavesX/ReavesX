@@ -46,11 +46,10 @@ Browser extension using OpenAI APIs to improve quiz workflow efficiency.
 
 <sub>Tech:</sub>  
 <p align="left">
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img alt="HP PPL" src="https://img.shields.io/badge/-HP%20PPL-555555?style=for-the-badge" /> 
+<img alt="Mathematics" src="https://img.shields.io/badge/-Mathematics-FF6F61?style=for-the-badge" />
 </p>
-
 ---
 
 **[HP Prime EE/CpE Applet](https://github.com/ReavesX/HpPrime-EE-CpE-Applet)**  
