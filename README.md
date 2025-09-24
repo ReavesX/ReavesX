@@ -45,6 +45,7 @@ Custom HP Prime applet for EE/CpE workflows, demonstrating applied math, UI desi
 
 ---
 
+
 ### 🧰 Tech Stack
 
 **Languages** | **Frontend / Extensions** | **Backend / Systems** | **Infra / DevOps**
@@ -54,14 +55,6 @@ Custom HP Prime applet for EE/CpE workflows, demonstrating applied math, UI desi
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> JavaScript | <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> Tailwind CSS | <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> GraphQL | <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> AWS
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> TypeScript | <img alt="Chrome/WXT" src="https://img.shields.io/badge/-Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> Chrome / WXT | <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> PostgreSQL | <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> Git / GitHub
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> C++ | &nbsp; | <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> Redis | &nbsp;
-
-**Backend / Systems** | **Infra / DevOps**
---- | ---
-<img align="left" alt="Node.js" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js | <img align="left" alt="Docker" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker
-<img align="left" alt="Express" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Express | <img align="left" alt="Kubernetes" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> Kubernetes
-<img align="left" alt="GraphQL" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> GraphQL |<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> AWS
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL | <img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git / GitHub
-<img align="left" alt="Redis" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> Redis | &nbsp;
 
 ---
 
