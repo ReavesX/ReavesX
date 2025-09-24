@@ -5,12 +5,13 @@ I’m currently building **Brighterspace**, a Chrome Extension (MV3, WXT) with *
 
 If you want to collaborate on innovative projects or have a challenge in mind, reach out:  
 📧 [donaldjacks0n@proton.me](mailto:donaldjacks0n@proton.me)  
+🔗 [LinkedIn](https://www.linkedin.com/in/djackson4005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
 ---
 
 ### 📌 Featured Projects
 
-**[Brighterspace](https://github.com/ReavesX/Brighterspace)**  
+**[Brighterspace](https://github.com/ReavesX/wxt-brighterspace)**  
 Chrome Extension (MV3, WXT) with offline-first CRDT sync, real-time collaboration, and rubric automation.  
 <sub>Tech:</sub>  
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20" />
@@ -39,7 +40,6 @@ Custom HP Prime applet for EE/CpE workflows, demonstrating applied math, UI desi
 <sub>Tech:</sub>  
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20" />  
 <img alt="HP PPL" src="https://img.shields.io/badge/-HP%20PPL-555555?style=for-the-badge&logoWidth=20" />  
-<img alt="Mathematics" src="https://img.shields.io/badge/-Mathematics-FF6F61?style=for-the-badge&logoWidth=20" />
 
 ---
 
@@ -63,9 +63,26 @@ Custom HP Prime applet for EE/CpE workflows, demonstrating applied math, UI desi
 
 ---
 
+### 🎓 Certifications (In Progress)
+
+<sub>All certifications are **currently in progress** — hover badges show “In Progress”</sub>  
+
+<img alt="Python" src="https://img.shields.io/badge/-Python%20Dev-Microsoft-ff9900?style=for-the-badge&logo=python&logoColor=white&label=In%20Progress" />
+<img alt="DSA" src="https://img.shields.io/badge/-DSA-UCSD/HSE-007ACC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Xw8AAkcB9hWDyoQAAAAASUVORK5CYII=&label=In%20Progress" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-Duke-000000?style=for-the-badge&logo=rust&logoColor=white&label=In%20Progress" />
+<img alt="JS" src="https://img.shields.io/badge/-FullStack%20JS-IBM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=In%20Progress" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS%20Solutions-Architect-Amazon-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&label=In%20Progress" />
+<img alt="DevOps" src="https://img.shields.io/badge/-Applied%20DevOps-IBM-326CE5?style=for-the-badge&logo=ibm&logoColor=white&label=In%20Progress" />
+<img alt="AI/ML" src="https://img.shields.io/badge/-AI%20ML-Microsoft-107C10?style=for-the-badge&logo=microsoft&logoColor=white&label=In%20Progress" />
+<img alt="Agentic AI" src="https://img.shields.io/badge/-Agentic%20AI-IBM-412991?style=for-the-badge&logo=ibm&logoColor=white&label=In%20Progress" />
+<img alt="System Design" src="https://img.shields.io/badge/-System%20Design-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white&label=In%20Progress" />
+<img alt="CKAD" src="https://img.shields.io/badge/-Kubernetes%20CKAD-Linux-326CE5?style=for-the-badge&logo=linux&logoColor=white&label=In%20Progress" />
+
+---
+
 ### 📚 Current Goals
 - Advancing **Brighterspace** into a full production-ready project  
-- Completing certifications in **AWS Solutions Architecture, Rust, AI/ML, and DevOps**  
+- Completing professional certifications in **Python, Rust, AI/ML, JS, AWS, DevOps, System Design, and Kubernetes**  
 - Sharpening **data structures, algorithms, and system design** for FAANG/MATANA interviews  
 
 ---
