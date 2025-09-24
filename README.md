@@ -15,7 +15,7 @@ If you want to collaborate on innovative projects or have a challenge in mind, r
 
 ### 📌 Featured Projects
 
-**[Brighterspace](https://github.com/ReavesX/wxt-brighterspace)**  
+### **[Brighterspace](https://github.com/ReavesX/wxt-brighterspace)**  
 Chrome Extension (MV3, WXT) for offline-first task/study group management with real-time CRDT sync and rubric-aware automation.  
 
 - Implemented **conflict-free offline-first sync** using Yjs (CRDTs)  
@@ -38,7 +38,7 @@ Chrome Extension (MV3, WXT) for offline-first task/study group management with r
 
 ---
 
-**[Canvas Quiz Answer Extension](https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer)**  
+### **[Canvas Quiz Answer Extension](https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer)**  
 Browser extension using OpenAI APIs to improve quiz workflow efficiency.  
 
 - Streamlines quiz answering using AI-powered automation  
@@ -52,7 +52,7 @@ Browser extension using OpenAI APIs to improve quiz workflow efficiency.
 </p>
 ---
 
-**[HP Prime EE/CpE Applet](https://github.com/ReavesX/HpPrime-EE-CpE-Applet)**  
+### **[HP Prime EE/CpE Applet](https://github.com/ReavesX/HpPrime-EE-CpE-Applet)**  
 Custom HP Prime applet for EE/CpE workflows, enabling advanced calculations and domain-specific problem solving.  
 
 - Demonstrates **applied math** and **custom UI design**  
