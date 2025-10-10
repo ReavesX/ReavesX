@@ -67,17 +67,6 @@ Custom HP Prime applet for EE/CpE workflows, enabling advanced calculations and 
 
 ---
 
-**[HP Prime EE/CpE Applet](https://github.com/ReavesX/HpPrime-EE-CpE-Applet)**  
-Custom HP Prime applet for EE/CpE workflows, enabling advanced calculations and domain-specific problem solving.  
-
-- Demonstrates **applied math** and **custom UI design**  
-- Includes domain-specific tools to assist EE/CpE coursework  
-<sub>Tech:</sub>  
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img alt="HP PPL" src="https://img.shields.io/badge/-HP%20PPL-555555?style=for-the-badge" /> 
-<img alt="Mathematics" src="https://img.shields.io/badge/-Mathematics-FF6F61?style=for-the-badge" />
-
-
 ### 🧰 Tech Stack
 
 **Languages** | **Frontend / Extensions** | **Backend / Systems** | **Infra / DevOps**
