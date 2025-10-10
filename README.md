@@ -15,7 +15,7 @@ If you want to collaborate on innovative projects or have a challenge in mind, r
 
 ### 📌 Featured Projects
 
-### **[Brighterspace](https://github.com/ReavesX/wxt-brighterspace)**  
+### **[Brighterspace](https://github.com/ReavesX/brighterspace)**  
 Chrome Extension (MV3, WXT) for offline-first task/study group management with real-time CRDT sync and rubric-aware automation.  
 
 - Implemented **conflict-free offline-first sync** using Yjs (CRDTs)  
