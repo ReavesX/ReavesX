@@ -35,17 +35,18 @@ Chrome Extension (MV3) for offline-first task/study group management with real-t
 
 ---
 
-### **[Canvas Quiz Answer Extension](https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer)**  
-Browser extension using OpenAI APIs to improve quiz workflow efficiency.  
+### [Canvas Quiz Answer Extension](https://github.com/ReavesX/Canvas-Quiz-OpenAI-Answerer)
+Browser extension that leverages the OpenAI API to assist with Canvas quiz workflows, improving speed and consistency.
 
-- Streamlines quiz answering using AI-powered automation  
-- Integrates seamlessly with browser UI for smooth user experience  
+- Automates quiz assistance using AI-generated responses  
+- Integrates seamlessly into Chrome’s UI with a lightweight popup interface  
 
-<sub>Tech:</sub>  
+<sub>Tech:</sub>  '
 <p align="left">
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img alt="HP PPL" src="https://img.shields.io/badge/-HP%20PPL-555555?style=for-the-badge" /> 
-<img alt="Mathematics" src="https://img.shields.io/badge/-Mathematics-FF6F61?style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt = "Chrome Storage" src="https://img.shields.io/badge/-Chrome%20Storage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img alt = "OpenAI API" src="https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 ---
 
