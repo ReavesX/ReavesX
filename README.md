@@ -1,7 +1,7 @@
 # Hi, I’m Don 👋  
 
 I’m a Computer Science student (Software Engineering concentration) with a strong interest in **systems programming, cloud infrastructure, and applied AI**.  
-I’m currently building **Brighterspace**, a Chrome Extension (MV3, WXT) with **offline-first CRDT sync, real-time collaboration, and rubric-aware automation**, showcasing distributed systems, cloud deployment, and applied AI in practice.  
+I’m currently building **Brighterspace**, a Chrome Extension (MV3) with **offline-first CRDT sync, real-time collaboration, and rubric-aware automation**, showcasing distributed systems, cloud deployment, and applied AI in practice.  
 
 If you want to collaborate on innovative projects or have a challenge in mind, reach out:  
 📧 [donaldjacks0n@proton.me](mailto:donaldjacks0n@proton.me)  
@@ -9,9 +9,6 @@ If you want to collaborate on innovative projects or have a challenge in mind, r
 
 ---
 
----
-
----
 
 ### 📌 Featured Projects
 
