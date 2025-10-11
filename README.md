@@ -41,7 +41,7 @@ Browser extension that leverages the OpenAI API to assist with Canvas quiz workf
 - Automates quiz assistance using AI-generated responses  
 - Integrates seamlessly into Chrome’s UI with a lightweight popup interface  
 
-<sub>Tech:</sub>  '
+<sub>Tech:</sub>  
 <p align="left">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
